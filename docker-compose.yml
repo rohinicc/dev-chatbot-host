@@ -8,4 +8,4 @@ services:
     ports:
       - "8085:8085"
     environment:
-      - SPRING_AI_OLLAMA_BASE_URL=http://172.31.18.86:11434
+      - SPRING_AI_OLLAMA_BASE_URL=http://172.31.12.186:11434
